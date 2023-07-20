@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "URL Info Extension",
+    "version": "1.0",
+    "description": "Get information about the current site URL",
+    "action": {
+      "default_popup": "src/popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
